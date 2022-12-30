@@ -1,6 +1,6 @@
 <h1 align=center>  PORTFÓLIO PESSOAL </h1>
 
-<p align=center> Esse projeto consiste numa página para apresentação pessoal e de projetos realizados. Responsivo para telas menores.  <a href="https://raquelferreira1.github.io/Meu-site-portf-lio/"</a> 
+<p align=center> Esse projeto consiste numa página para apresentação pessoal e de projetos realizados. Responsivo para telas menores.  <a href="https://raquelferreira1.github.io/Portfolio/"</a> 
 <br>
 Veja aqui :point_left: </p>
 
