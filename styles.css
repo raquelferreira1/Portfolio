@@ -84,7 +84,7 @@ section img {
 
 section div h2 {
     color: #ffffff;
-    font-size: 4.688rem;
+    font-size: 4rem;
 }
 
 section div p {
@@ -120,7 +120,7 @@ section div button:hover {
 
 .projetos h2 {
     color: #ffffff;
-    font-size: 4.688rem;
+    font-size: 4rem;
     text-align: center;
 }
 
@@ -188,7 +188,7 @@ footer h5 {
 
 footer p {
     color: #ffffff;
-    font-size: 1.125rem;
+    font-size: 1.350rem;
     margin-top: 0.875rem;
     margin-bottom: 1.875rem;
 }
