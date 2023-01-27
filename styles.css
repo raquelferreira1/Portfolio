@@ -27,7 +27,7 @@ nav {
 }
 
 .portfolio span {
-    color: #83040B
+    color: #9C306A
 }
 
 li {
@@ -39,14 +39,17 @@ li {
     cursor: pointer;
 }
 
-li:hover {
-    color: #83040B;
-    transition: 0.5s;
-}
-
 .link-menu {
     text-decoration: none;
     color: #ffffff;
+}
+
+.link-menu:hover {
+    color: #83040B;
+}
+
+.link-menu:active {
+    opacity: .5;
 }
 
 .nome-e-cargo {
@@ -79,17 +82,17 @@ section {
 section img {
     height: 25rem;
     border-radius: 100%;
-    border: 0.130rem solid #9C306A;
+    border: 0.125rem solid #83040B;
     margin-right: 1.875rem;
 }
 
 section div h2 {
-    color: #ffffff;
-    font-size: 4rem;
+    font-size: 3.5rem;
+    color: #e2b9c6;
 }
 
 section div p {
-    color: #e2b9c6;
+    color: #ffffff;
     font-size: 1.5rem;
     line-height: 2.3rem;
     margin-top: 0.938rem;
@@ -120,9 +123,10 @@ section div button:hover {
 }
 
 .projetos h2 {
-    color: #ffffff;
-    font-size: 4rem;
+    font-size: 3.5rem;
     text-align: center;
+    color: #e2b9c6;
+    text-shadow: 0.1em 0.1em 0.3em #000000;
 }
 
 .card {
@@ -205,7 +209,7 @@ footer p {
 }
 
 .social a {
-    background-color: #f9004d;
+    background-color: #90d2dc;
     border-radius: 50%;
     display: flex;
     align-items: center;
