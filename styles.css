@@ -195,9 +195,13 @@ footer h5 {
     font-size: 1.875rem;
 }
 
+footer h5 span {
+    color: #83040B;
+}
+
 footer p {
     color: #ffffff;
-    font-size: 1.350rem;
+    font-size: 1.250rem;
     margin-top: 0.875rem;
     margin-bottom: 1.875rem;
 }
