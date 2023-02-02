@@ -200,7 +200,7 @@ footer h5 span {
 }
 
 footer p {
-    color: #ffffff;
+    color: #e2b9c6;
     font-size: 1.250rem;
     margin-top: 0.875rem;
     margin-bottom: 1.875rem;
@@ -301,6 +301,8 @@ footer p {
     }
 
     .card-projetos {
-        display: block;
-    }
+        margin-top: 6.25rem;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;    }
 }
