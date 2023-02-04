@@ -74,6 +74,7 @@ h1 span {
 .nome-e-cargo h3 {
     color: #e2b9c6;
     font-size: 1.875rem;
+    margin-top: 0.6rem;
 }
 
 section {
@@ -237,13 +238,6 @@ footer p {
     .portfolio {
         font-size: 1.5rem;
         text-align: center;
-        margin-top: 2rem;
-    }
-
-    ul {
-        text-align: center;
-        font-size: 0.8rem;
-        margin-top: 5rem;
     }
 
     .nome-e-cargo {
@@ -260,8 +254,21 @@ footer p {
     }
 
     nav {
-        display: inline;
-        padding-right: 1.5rem;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    ul {
+        text-align: end;
+        display: grid;
+    }
+
+    li {
+        margin-top: 1.3rem;
+        font-size: 1.4rem;
     }
 
     .caixa-principal {
@@ -304,5 +311,6 @@ footer p {
         margin-top: 6.25rem;
         justify-content: space-around;
         align-items: center;
-        flex-direction: column;    }
+        flex-direction: column;
+    }
 }
