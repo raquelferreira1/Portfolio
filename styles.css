@@ -258,7 +258,7 @@ footer p {
         align-items: center;
         flex-direction: row;
         justify-content: center;
-        gap: 2rem;
+        gap: 3rem;
     }
 
     ul {
