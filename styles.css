@@ -207,6 +207,10 @@ footer p {
     margin-bottom: 1.875rem;
 }
 
+.feito-com-amor span{
+    color: #83040B;
+}
+
 .social {
     display: flex;
     gap: 1.25rem;
