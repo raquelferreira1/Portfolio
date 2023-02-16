@@ -16,5 +16,5 @@ Página para apresentação pessoal e apresentação de projetos.
 
 > Para ver o projeto on-line clique **[AQUI](https://raquelferreira1.github.io/Portfolio/)**
 
-<img src="https://github.com/raquelferreira1/Portfolio/blob/master/assets/print2.png?raw=true">
+<img src="https://github.com/raquelferreira1/Portfolio/blob/master/assets/print1.png?raw=true">
 
