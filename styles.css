@@ -80,6 +80,8 @@ h1 span {
 section {
     display: flex;
     align-items: center;
+    justify-content: center;
+    gap: 4rem;
     padding: 3.75rem 0;
     background-color: #2D2D2B;
 }
@@ -88,7 +90,6 @@ section img {
     height: 25rem;
     border-radius: 100%;
     border: 0.125rem solid #83040B;
-    margin-right: 1.875rem;
 }
 
 section div h2 {
@@ -102,6 +103,10 @@ section div p {
     line-height: 2.3rem;
     margin-top: 0.938rem;
     margin-bottom: 3.75rem;
+}
+
+section div p span {
+    color: #e2b9c6;
 }
 
 section div button {
@@ -207,7 +212,7 @@ footer p {
     margin-bottom: 1.875rem;
 }
 
-.feito-com-amor span{
+.feito-com-amor span {
     color: #83040B;
 }
 
@@ -288,7 +293,6 @@ footer p {
         font-size: 1.9rem;
         text-align: center;
         margin-top: 1rem;
-        margin-bottom: 2.0rem;
     }
 
     section div button {
