@@ -81,7 +81,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 4rem;
+    gap: 5rem;
     padding: 3.75rem 0;
     background-color: #2D2D2B;
 }
@@ -183,7 +183,7 @@ section div button:hover {
 .card-projetos {
     display: flex;
     justify-content: space-around;
-    margin-top: 6.25rem;
+    margin: 6.25rem 6.25rem;
 }
 
 footer {
@@ -285,14 +285,15 @@ footer p {
     }
 
     section {
-        display: block;
-        padding: 2.75rem;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding: 3rem;
     }
 
     section div h2 {
         font-size: 1.9rem;
         text-align: center;
-        margin-top: 1rem;
     }
 
     section div button {
@@ -308,7 +309,6 @@ footer p {
     section img {
         height: 12rem;
         border-radius: 100%;
-        margin-left: 3.0rem;
     }
 
     .projetos h2 {
@@ -316,7 +316,6 @@ footer p {
     }
 
     .card-projetos {
-        margin-top: 6.25rem;
         justify-content: space-around;
         align-items: center;
         flex-direction: column;
