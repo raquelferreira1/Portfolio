@@ -146,6 +146,7 @@ section div button:hover {
     border-radius: 1.25rem;
     padding: 1.875rem 2.813rem;
     text-align: center;
+    margin-bottom: 4rem;
 }
 
 .card img {
@@ -183,7 +184,6 @@ section div button:hover {
 .card-projetos {
     display: flex;
     justify-content: space-around;
-    margin: 6.25rem 6.25rem;
 }
 
 footer {
