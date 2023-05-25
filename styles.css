@@ -184,6 +184,7 @@ section div button:hover {
 .card-projetos {
     display: flex;
     justify-content: space-around;
+    margin-top: 3rem;
 }
 
 footer {
